@@ -1,3 +1,5 @@
+//Search Insert Position
+
 public class Main {
     public static int binarySearch(int[] nums, int target){
         int left = 0;
